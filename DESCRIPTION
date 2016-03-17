@@ -1,0 +1,17 @@
+Package: CDS
+Type: Package
+Title: Concomitant identification of distinctness and similarity in gene expression analysis.
+Date: 2012-05-23
+Version: 1.0.0
+Author: Nicolas TCHITCHEK
+Maintainer: Nicolas TCHITCHEK <nicolas.tchitchek@gmail.com>
+Description: The Concomitant evaluation of Distinctness and Similarity (CDS) is a fold-change-based statistical test that allows to detect differentially and similarly expressed genes. Given two sets of gene measurements in different biological conditions, probabilities of making type I and type II errors in stating that a gene is differentially or similarly expressed from one condition to the other can be calculated. Furthermore, a confidence interval for the fold-change can be delineated. 
+License: GPL-3
+Depends:
+    R (>= 3.1),
+Imports:
+    rJava
+biocViews: StatisticalMethod, Microarray, GeneExpression
+VignetteBuilder: knitr
+Suggests: knitr,rmarkdown
+RoxygenNote: 5.0.1
