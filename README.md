@@ -1,25 +1,16 @@
 # CDS: A fold-change based statistical test for concomitant identification of distinctness and similarity in gene expression analysis.
 Nicolas Tchitchek  
 
-# CDS-test
-CDS: A fold-change based statistical test for concomitant identification of distinctness and similarity in gene expression analysis.
-
 # Description
 The Concomitant evaluation of Distinctness and Similarity is a fold-change-based statistical test that allows to detect differentially and similarly expressed genes. Given two sets of gene measurements in different biological conditions, probabilities of making type I and type II errors in stating that a gene is differentially or similarly expressed from one condition to the other can be calculated. Furthermore, a confidence interval for the fold-change can be delineated.
-Details
-Package: 	CDS
-Type: 	Package
-Version: 	1.0
-Date: 	2012-05-23
-License: 	GPL
-Link: 	CDS.zip
 
 # Author(s)
 Nicolas Tchitchek, Jose Felipe Golib Dzib, Brice Targat, Sebastian Noth, Arndt Benecke, and Annick Lesne
-Maintainer: Nicolas Tchitchek <nicolas@ihes.fr>
+
+Maintainer: Nicolas Tchitchek <nicolas.tchitchek@gmail.com>
 
 # References
-Nicolas Tchitchek, Jose Felipe Golib Dzib, Brice Targat, Sebastian Noth, Arndt Benecke, and Annick Lesne. CDS: A fold-change based statistical test for concomitant identification of distinctness and similarity in gene expression analysis. Genomics, Proteomics & Bioinformatics, 2012. Supplementary Materials
+Nicolas Tchitchek, Jose Felipe Golib Dzib, Brice Targat, Sebastian Noth, Arndt Benecke, and Annick Lesne. CDS: A fold-change based statistical test for concomitant identification of distinctness and similarity in gene expression analysis. Genomics, Proteomics & Bioinformatics, 2012.
 
 # Examples
 
